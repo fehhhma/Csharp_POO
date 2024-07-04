@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\bin\Debug\net8.0-windows\PolpaDAgua.exe
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\bin\Debug\net8.0-windows\PolpaDAgua.deps.json
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\bin\Debug\net8.0-windows\PolpaDAgua.runtimeconfig.json
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\bin\Debug\net8.0-windows\PolpaDAgua.dll
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\bin\Debug\net8.0-windows\PolpaDAgua.pdb
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.Form1.resources
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.AssemblyInfo.cs
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.dll
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\refint\PolpaDAgua.dll
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.pdb
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\PolpaDAgua.genruntimeconfig.cache
+C:\Users\senai\source\repos\PolpaDAgua\PolpaDAgua\obj\Debug\net8.0-windows\ref\PolpaDAgua.dll
