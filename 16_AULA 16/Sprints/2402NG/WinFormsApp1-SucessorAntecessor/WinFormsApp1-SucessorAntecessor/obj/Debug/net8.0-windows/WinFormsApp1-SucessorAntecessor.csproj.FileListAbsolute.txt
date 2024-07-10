@@ -1,0 +1,7 @@
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1_SucessorAntecessor.Form1.resources
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1_SucessorAntecessor.Properties.Resources.resources
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1-SucessorAntecessor.csproj.GenerateResource.cache
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1-SucessorAntecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1-SucessorAntecessor.AssemblyInfoInputs.cache
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1-SucessorAntecessor.AssemblyInfo.cs
+C:\Users\claudio\source\repos\WinFormsApp1-SucessorAntecessor\WinFormsApp1-SucessorAntecessor\obj\Debug\net8.0-windows\WinFormsApp1-SucessorAntecessor.csproj.CoreCompileInputs.cache
