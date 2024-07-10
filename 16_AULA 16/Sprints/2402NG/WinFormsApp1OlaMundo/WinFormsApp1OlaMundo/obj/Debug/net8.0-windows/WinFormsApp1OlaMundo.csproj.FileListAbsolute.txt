@@ -1,0 +1,17 @@
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.Form1.resources
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.Properties.Resources.resources
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.csproj.GenerateResource.cache
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.AssemblyInfoInputs.cache
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.AssemblyInfo.cs
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\bin\Debug\net8.0-windows\WinFormsApp1OlaMundo.exe
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\bin\Debug\net8.0-windows\WinFormsApp1OlaMundo.deps.json
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\bin\Debug\net8.0-windows\WinFormsApp1OlaMundo.runtimeconfig.json
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\bin\Debug\net8.0-windows\WinFormsApp1OlaMundo.dll
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\bin\Debug\net8.0-windows\WinFormsApp1OlaMundo.pdb
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.dll
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\refint\WinFormsApp1OlaMundo.dll
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.pdb
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\WinFormsApp1OlaMundo.genruntimeconfig.cache
+C:\Users\claudio\source\repos\WinFormsApp1OlaMundo\WinFormsApp1OlaMundo\obj\Debug\net8.0-windows\ref\WinFormsApp1OlaMundo.dll
