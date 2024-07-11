@@ -1,0 +1,16 @@
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\bin\Debug\net8.0-windows\CalculadoraMediaWhileParar.exe
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\bin\Debug\net8.0-windows\CalculadoraMediaWhileParar.deps.json
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\bin\Debug\net8.0-windows\CalculadoraMediaWhileParar.runtimeconfig.json
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\bin\Debug\net8.0-windows\CalculadoraMediaWhileParar.dll
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\bin\Debug\net8.0-windows\CalculadoraMediaWhileParar.pdb
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.Form1.resources
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.csproj.GenerateResource.cache
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.AssemblyInfoInputs.cache
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.AssemblyInfo.cs
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.csproj.CoreCompileInputs.cache
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.dll
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\refint\CalculadoraMediaWhileParar.dll
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.pdb
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\CalculadoraMediaWhileParar.genruntimeconfig.cache
+C:\Users\senai2\source\repos\CalculadoraMediaWhileParar\obj\Debug\net8.0-windows\ref\CalculadoraMediaWhileParar.dll
