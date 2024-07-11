@@ -1,0 +1,17 @@
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.Form1.resources
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.Properties.Resources.resources
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.csproj.GenerateResource.cache
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.AssemblyInfoInputs.cache
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.AssemblyInfo.cs
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.csproj.CoreCompileInputs.cache
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\bin\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.exe
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\bin\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.deps.json
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\bin\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.runtimeconfig.json
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\bin\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.dll
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\bin\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.pdb
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.dll
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\refint\WinFormsApp1QuadradoNumeroApp.dll
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.pdb
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\WinFormsApp1QuadradoNumeroApp.genruntimeconfig.cache
+C:\Users\claudio\source\repos\WinFormsApp1QuadradoNumeroApp\WinFormsApp1QuadradoNumeroApp\obj\Debug\net8.0-windows\ref\WinFormsApp1QuadradoNumeroApp.dll
