@@ -1,0 +1,17 @@
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\bin\Debug\net8.0-windows\TabuadaDeTreinamento.exe
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\bin\Debug\net8.0-windows\TabuadaDeTreinamento.deps.json
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\bin\Debug\net8.0-windows\TabuadaDeTreinamento.runtimeconfig.json
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\bin\Debug\net8.0-windows\TabuadaDeTreinamento.dll
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\bin\Debug\net8.0-windows\TabuadaDeTreinamento.pdb
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.Form1.resources
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.Properties.Resources.resources
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.csproj.GenerateResource.cache
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.AssemblyInfoInputs.cache
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.AssemblyInfo.cs
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.csproj.CoreCompileInputs.cache
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.dll
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\refint\TabuadaDeTreinamento.dll
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.pdb
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\TabuadaDeTreinamento.genruntimeconfig.cache
+C:\Users\claudio\source\repos\TabuadaDeTreinamento\TabuadaDeTreinamento\obj\Debug\net8.0-windows\ref\TabuadaDeTreinamento.dll
