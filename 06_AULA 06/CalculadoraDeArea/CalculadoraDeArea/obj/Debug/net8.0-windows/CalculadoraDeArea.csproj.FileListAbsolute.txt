@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.Form1.resources
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.AssemblyInfo.cs
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net8.0-windows\CalculadoraDeArea.exe
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net8.0-windows\CalculadoraDeArea.deps.json
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net8.0-windows\CalculadoraDeArea.runtimeconfig.json
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net8.0-windows\CalculadoraDeArea.dll
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\bin\Debug\net8.0-windows\CalculadoraDeArea.pdb
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.dll
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\refint\CalculadoraDeArea.dll
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.pdb
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\CalculadoraDeArea.genruntimeconfig.cache
+C:\Users\senai\source\repos\CalculadoraDeArea\CalculadoraDeArea\obj\Debug\net8.0-windows\ref\CalculadoraDeArea.dll
