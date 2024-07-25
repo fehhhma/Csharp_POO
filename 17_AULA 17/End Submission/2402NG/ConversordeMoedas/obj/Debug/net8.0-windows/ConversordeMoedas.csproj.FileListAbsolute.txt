@@ -1,0 +1,17 @@
+C:\Users\senai\source\repos\ConversordeMoedas\bin\Debug\net8.0-windows\ConversordeMoedas.exe
+C:\Users\senai\source\repos\ConversordeMoedas\bin\Debug\net8.0-windows\ConversordeMoedas.deps.json
+C:\Users\senai\source\repos\ConversordeMoedas\bin\Debug\net8.0-windows\ConversordeMoedas.runtimeconfig.json
+C:\Users\senai\source\repos\ConversordeMoedas\bin\Debug\net8.0-windows\ConversordeMoedas.dll
+C:\Users\senai\source\repos\ConversordeMoedas\bin\Debug\net8.0-windows\ConversordeMoedas.pdb
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.Form1.resources
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.AssemblyInfo.cs
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.dll
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\refint\ConversordeMoedas.dll
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.pdb
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.genruntimeconfig.cache
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ref\ConversordeMoedas.dll
+C:\Users\senai\source\repos\ConversordeMoedas\obj\Debug\net8.0-windows\ConversordeMoedas.Properties.Resources.resources
